@@ -1,0 +1,13 @@
+.jumbotron.background  {
+    background-image: url("../images/Banner_Bacteria.jpg");
+    background-size: cover;
+    color: blueviolet;
+  }
+
+  .barchart {
+    color:fuchsia;
+    font-weight: bold;
+  }
+
+
+
